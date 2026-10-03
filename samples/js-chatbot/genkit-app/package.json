@@ -19,7 +19,7 @@
     "@angular/material": "^18.0.1",
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
-    "@angular/router": "^18.0.0",
+    "@angular/router": "^20.3.32",
     "marked": "^12.0.2",
     "ngx-markdown": "^18.0.0",
     "prismjs": "^1.29.0",
@@ -29,8 +29,8 @@
     "genkit": "^1.0.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.0.2",
-    "@angular/cli": "^18.0.2",
+    "@angular-devkit/build-angular": "^21.2.24",
+    "@angular/cli": "^22.2.1",
     "@angular/compiler-cli": "^18.0.0",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.1.0",
